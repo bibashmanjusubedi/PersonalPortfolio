@@ -5,6 +5,11 @@
         text-align:center;
     }
 
+    header nav{
+        text-align: center;
+    }
+
+
     section table tr td{
         display:block;
         width:100%;
@@ -14,5 +19,6 @@
     section table tr td hr {
         width:80%;
         margin: 0.5 rem auto;
+        box-sizing: border-box;
     }
 }
