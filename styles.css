@@ -10,4 +10,9 @@
         width:100%;
         margin-bottom: 1rem;        
     }
+
+    section table tr td hr {
+        width:80%;
+        margin: 0.5 rem auto;
+    }
 }
