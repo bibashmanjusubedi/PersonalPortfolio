@@ -1,3 +1,30 @@
+header td{
+    background-color: #333;
+    color:white;
+}
+
+header nav a{
+    color:white;
+    font-weight:bold;
+}
+
+header nav a:hover{
+    color:#ffcc00;
+}
+
+section{
+    background-color: #f5f5f5;
+}
+
+article{
+    background-color: white;
+}
+
+footer{
+    background-color: #333;
+    color:white;
+}
+
 /* Responsiveness */
 @media(max-width:600px){
     header{
